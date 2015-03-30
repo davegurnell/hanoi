@@ -1,8 +1,13 @@
-https://en.wikipedia.org/wiki/Tower_of_Hanoi#Cyclic_Hanoi
+Information from Wikipedia
+==========================
 
-Tower(s) of Hanoi
-Tower(s) of Brahma
-Lucas' Tower(s)
+Source:
+   https://en.wikipedia.org/wiki/Tower_of_Hanoi#Cyclic_Hanoi
+
+Aka:
+ - Tower(s) of Hanoi
+ - Tower(s) of Brahma
+ - Lucas' Tower(s)
 
 Objective to move all disks to right hand pillar, obeying the following simple rules:
 
